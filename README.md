@@ -1,16 +1,16 @@
-## Hi there 👋
+# Sheehan Rahman
 
-<!--
-**sheehanr/sheehanr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at the University of Florida ('28). I mostly work in Python and I'm especially interested in healthcare tech.
 
-Here are some ideas to get you started:
+Looking for SWE internships and co-ops for 2027.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Key Projects
+
+- **[GridAlign](https://github.com/sheehanr/gridalign)**: Streamlit dashboard that finds overlapping transmission projects across neighboring utilities and clusters them into regional hubs. Flagged $2.5M+ in potential shared savings. *(Python, Pandas, PyDeck)*
+- **[X-Ray Classifier](https://github.com/sheehanr/xray-classifier)**: Fine-tuned ResNet-18 that classifies 40,000+ x-rays into 19 classes at 95% accuracy. *(PyTorch)*
+- **[Fitness Data Visualizer](https://github.com/sheehanr/fitness-data-visualizer)**: Streamlit app that cleans Hevy workout exports, estimates 1-rep max from RPE, and forecasts 90-day strength progression. *(Pandas, Scikit-learn, Plotly)*
+
+## Contact
+
+- Email: sheehanrahman06@gmail.com
+- LinkedIn: [linkedin.com/in/sheehan-rahman](https://linkedin.com/in/sheehan-rahman)
